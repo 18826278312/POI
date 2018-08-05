@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "ak",
+    "type": "java.lang.String",
+    "description": "A description for 'ak'"
+  },
+  {
+    "name": "file.url",
+    "type": "java.lang.String",
+    "description": "A description for 'file.url'"
+  }
+]}
